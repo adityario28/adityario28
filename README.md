@@ -1,7 +1,7 @@
 Hi 👋 My name is Mahesa Rio Aditya
 ==================================
 
-Junior Software Engineer
+Computer Science/Informatics Student
 ------------------------
 
 I've been learning code for 2 years. I started with C++ language, but still learning for other programming language.
