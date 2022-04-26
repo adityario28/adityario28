@@ -6,7 +6,7 @@ Junior Software Engineer
 
 I've been learning code for 2 years. I started with C++ language, but still learning for other programming language.
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Salatiga, Indonesia
 * ✉️  You can contact me at [Adityario28@gmail.com](mailto:Adityario28@gmail.com)
 * 🧠  I'm learning Javascript, Python3, C++, C, Java
 * 🤝  I'm open to collaborating on any project that can fill my portfolio
